@@ -37,7 +37,7 @@ I don't just "use" AI — I build systems around it:
 - Built Python scrapers to collect and structure 3,000+ developer feedbacks, 100+ technical docs, and 200+ competitor data points; quantified tech maturity (78% adaptation rate) and user value (+22% experience score).
 - Delivered a 15,000-word panoramic industry report combining quantitative metrics with qualitative insights, directly informing HarmonyOS AI strategy prioritization.
 
-### Guosheng Securities — Quantitative Research Institute, Fixed Income
+### [Guosheng Securities — Quantitative Research Institute, Fixed Income](https://github.com/Leon-S-7211/Leon-S-7211/tree/main/%E5%9B%BD%E7%9B%9B%E5%AE%9E%E4%B9%A0%E9%A1%B9%E7%9B%AE%E6%88%90%E6%9E%9C)
 **Quantitative Strategy Analyst** · Sep 2025 – Jan 2026
 
 - Validated 26 REITs factors with Pandas/NumPy backtesting; identified 2 high-IC core factors for investment decisions.
