@@ -30,7 +30,7 @@ I don't just "use" AI — I build systems around it:
 
 ## 🏢 Industry Research Experience
 
-### Roland Berger — Huawei iOS AI Ecosystem Insight Project
+### [Roland Berger — Huawei iOS AI Ecosystem Insight Project](https://github.com/Leon-S-7211/Leon-S-7211/tree/main/RB%E5%AE%9E%E4%B9%A0%E6%88%90%E6%9E%9C)
 **Cross-Platform AI Assessment** · Jan 2026 – Mar 2026
 
 - Led a multi-dimensional competitive analysis of Apple Core ML/SiriKit vs. Google Android vs. HarmonyOS across network, compression, toolchain, and privacy dimensions using Porter's Five Forces and SWOT.
