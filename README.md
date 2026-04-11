@@ -55,7 +55,7 @@ I don't just "use" AI — I build systems around it:
 
 ## 🚀 Projects
 
-### [Startup Daily Digest — n8n AI Pipeline](https://github.com/yourusername/startup-daily-digest)
+### [Startup Daily Digest — n8n AI Pipeline](https://github.com/Leon-S-7211/Leon-S-7211/tree/main/n8n自动搜寻初创公司新闻)
 > **Problem:** Tracking startup product launches and funding rounds across fragmented Chinese tech media is time-consuming and easy to miss. As someone genuinely interested in industry research, I needed a system that delivers a curated daily briefing — not raw noise.
 
 `n8n` `RSS` `DeepSeek API` `Structured Output` `Multi-source Aggregation`
@@ -65,7 +65,7 @@ I don't just "use" AI — I build systems around it:
 - **Daily output:** Generates a concise, structured daily digest ready for review — effectively a mini industry research briefing assembled automatically each morning.
 - **Why it matters for industry research:** This is how I stay current on market dynamics across sectors. Instead of spending 1–2 hours scrolling feeds, I get a structured overview in minutes and can go deep on what matters.
 
-### [Douyin-to-Text: Finance Creator Knowledge Base](https://github.com/yourusername/douyin-to-text)
+### Douyin-to-Text: Finance Creator Knowledge Base
 > **Problem:** Top financial analysts and macro commentators on Douyin produce deep, thesis-quality content — but it lives in video form, impossible to search, annotate, or reference in research. I built a fully local pipeline to convert their output into a searchable document library at zero cost.
 
 `Python` `Playwright` `OBS WebSocket` `faster-whisper` `python-docx`
@@ -75,7 +75,7 @@ I don't just "use" AI — I build systems around it:
 - **Anti-fragile design:** Uses screen recording instead of direct download to bypass Douyin's frequently updated anti-scraping — ensuring the pipeline doesn't break when the platform changes.
 - **Batch tracking:** JSON config manages a watchlist of finance creators; new creators can be added in seconds.
 
-### [Xiaohongshu Intelligent Content Evaluator](https://github.com/yourusername/xiaohongshu-evaluator)
+### Xiaohongshu Intelligent Content Evaluator
 > **Problem:** Xiaohongshu hosts a mix of high-signal industry posts and low-quality noise. Manually filtering for relevant business/AI content daily is a time sink. I built an LLM-powered multi-stage scoring system to surface what matters.
 
 `Python` `Playwright` `DeepSeek API` `LLM Multi-stage Scoring`
