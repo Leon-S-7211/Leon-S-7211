@@ -91,7 +91,7 @@ I don't just "use" AI — I build systems around it:
 | Category | Details |
 |----------|---------|
 | **Programming** | Python (Pandas, NumPy, Scikit-Learn), SQL, JavaScript |
-| **AI Tools** | Claude, DeepSeek, GPT-4, faster-whisper, LLM API integration |
+| **AI Tools** | Claude, DeepSeek, GPT-5, faster-whisper, Hermes |
 | **Automation** | n8n workflows, Playwright browser automation, OBS WebSocket |
 | **Finance** | Bloomberg Terminal, BQL, iFinD, factor backtesting |
 | **Data** | WOE/IV, logistic regression, feature engineering, AUC evaluation |
