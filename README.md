@@ -65,7 +65,7 @@ I don't just "use" AI — I build systems around it:
 - **Daily output:** Generates a concise, structured daily digest ready for review — effectively a mini industry research briefing assembled automatically each morning.
 - **Why it matters for industry research:** This is how I stay current on market dynamics across sectors. Instead of spending 1–2 hours scrolling feeds, I get a structured overview in minutes and can go deep on what matters.
 
-### Douyin-to-Text: Finance Creator Knowledge Base(https://github.com/Leon-S-7211/Douyin-to-text)
+### [Douyin-to-Text: Finance Creator Knowledge Base](https://github.com/Leon-S-7211/Douyin-to-text)
 > **Problem:** Top financial analysts and macro commentators on Douyin produce deep, thesis-quality content — but it lives in video form, impossible to search, annotate, or reference in research. I built a fully local pipeline to convert their output into a searchable document library at zero cost.
 
 `Python` `Playwright` `OBS WebSocket` `faster-whisper` `python-docx`
