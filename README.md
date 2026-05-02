@@ -36,7 +36,6 @@ I don't just "use" AI — I build systems around it:
 
 - Tracked operational and financial KPIs across portfolio companies in the tech and healthcare sectors; consolidated data from quarterly reports, investor updates, and public filings into standardized tracking dashboards.
 - Coordinated directly with portfolio company founders and finance teams on data requests, reporting timelines, and ad-hoc operational support.
-- Organized and reviewed financial statements for portfolio companies; flagged anomalies and summarized key metrics for internal investment team review.
 - Leveraged Hermes (AI agent) to build an end-to-end automated workflow for portfolio material collection and analysis — including auto-scraping public company data (news, filings), generating structured post-investment report drafts, and extracting/benchmarking financial indicators — reducing manual research time significantly.
 
 ### [Roland Berger — Huawei iOS AI Ecosystem Insight Project](https://github.com/Leon-S-7211/Leon-S-7211/tree/main/RB%E5%AE%9E%E4%B9%A0%E6%88%90%E6%9E%9C)
