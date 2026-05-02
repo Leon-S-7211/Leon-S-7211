@@ -13,7 +13,7 @@ Information Management & Information Systems
 
 I'm an undergraduate deeply invested in using **AI to transform industry research workflows**. I spend significant time and resources each month on AI tools — not as a novelty, but as my default working method. From day one of every project, I reach for LLMs, automation pipelines, and programmatic data collection before manual approaches.
 
-My background sits at the intersection of **industry research**, **quantitative analysis**, and **AI-powered automation** — I've done primary research at Roland Berger for Huawei, built quant models at Guosheng Securities, and independently developed AI-driven tools for content analysis and data collection.
+My background sits at the intersection of **industry research**, **quantitative analysis**, and **AI-powered automation** — I've done primary research at Roland Berger for Huawei, built quant models at Guosheng Securities, run post-investment operations at Alpha JWC Ventures, and independently developed AI-driven tools for content analysis and data collection.
 
 ---
 
@@ -22,6 +22,7 @@ My background sits at the intersection of **industry research**, **quantitative 
 I don't just "use" AI — I build systems around it:
 
 - **LLM-integrated research pipelines**: Built a multi-stage LLM scoring system that automates content discovery, relevance filtering, and creator evaluation on social platforms (see Xiaohongshu Evaluator below)
+- **AI-powered post-investment workflows**: Used Hermes to automate portfolio company data collection, financial metric extraction, and investment memo drafting — turning hours of manual tracking into structured, repeatable pipelines
 - **n8n automation flows**: Designed automated information monitoring workflows for real-time industry signal tracking
 - **AI-assisted writing & analysis**: Use Claude, DeepSeek, and GPT daily for research synthesis, framework construction, and multilingual report drafting
 - **Programmatic data collection → AI analysis**: Python scrapers feeding into LLM-powered structuring and insight extraction — applied this at Roland Berger to process 3,000+ developer feedbacks into quantified tech maturity metrics
@@ -29,6 +30,14 @@ I don't just "use" AI — I build systems around it:
 ---
 
 ## 🏢 Industry Research Experience
+
+### Alpha JWC Ventures — Post-Investment Team (USD Fund)
+**Post-Investment Intern** · Apr 2026 – May 2026
+
+- Tracked operational and financial KPIs across portfolio companies in the tech and healthcare sectors; consolidated data from quarterly reports, investor updates, and public filings into standardized tracking dashboards.
+- Coordinated directly with portfolio company founders and finance teams on data requests, reporting timelines, and ad-hoc operational support.
+- Organized and reviewed financial statements for portfolio companies; flagged anomalies and summarized key metrics for internal investment team review.
+- Leveraged Hermes (AI agent) to build an end-to-end automated workflow for portfolio material collection and analysis — including auto-scraping public company data (news, filings), generating structured post-investment report drafts, and extracting/benchmarking financial indicators — reducing manual research time significantly.
 
 ### [Roland Berger — Huawei iOS AI Ecosystem Insight Project](https://github.com/Leon-S-7211/Leon-S-7211/tree/main/RB%E5%AE%9E%E4%B9%A0%E6%88%90%E6%9E%9C)
 **Cross-Platform AI Assessment** · Jan 2026 – Mar 2026
@@ -102,5 +111,3 @@ I don't just "use" AI — I build systems around it:
 ## 🏆 Honors & Activities
 
 - 2024 BJTU Outstanding League Member (Top 2%) · Professional Skills Excellence Award (Top 4%)
-- **Way To AGI** Campus Ambassador
-- **RIT Student Board of Directors** 
