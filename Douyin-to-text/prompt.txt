@@ -1,0 +1,55 @@
+# OBS WebSocket 配置指南
+
+## 1. 安装 OBS Studio
+
+下载: https://obsproject.com/
+
+OBS 28+ 已内置 WebSocket，无需插件。
+
+## 2. 启用 WebSocket
+
+1. 打开 OBS
+2. 工具 → WebSocket 服务器设置
+3. 勾选 **启用 WebSocket 服务器**
+4. 端口默认 `4455`
+5. 勾选 **启用身份验证**，设置密码
+6. 确定
+
+## 3. 录制设置
+
+### 输出
+设置 → 输出 → 录像:
+- 录像路径: `D:\douyin-to-text\recordings`
+- 格式: `mp4`
+- 编码器: 有 N 卡选 `NVENC`，否则 `x264`
+- 码率: `2500 Kbps`
+
+### 音频
+设置 → 音频:
+- 桌面音频: `默认`
+- 麦克风: `已禁用`
+
+### 窗口捕获
+1. 来源 → `+` → 窗口捕获
+2. 选择 Chrome 浏览器窗口
+3. 调整大小填满画布
+
+## 4. 填入配置
+
+```json
+{
+  "obs": {
+    "host": "localhost",
+    "port": 4455,
+    "password": "你的密码"
+  }
+}
+```
+
+## 5. 验证
+
+```bash
+python -m src.recorder status
+```
+
+看到 `录制中: 否` 即连接成功。
