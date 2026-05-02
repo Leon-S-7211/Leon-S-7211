@@ -107,6 +107,8 @@ I don't just "use" AI — I build systems around it:
 
 ---
 
-## 🏆 Honors & Activities
+🏆 Honors & Activities
 
-- 2024 BJTU Outstanding League Member (Top 2%) · Professional Skills Excellence Award (Top 4%)
+Way to AGI Campus Ambassador
+RIT Student Board of Directors Member
+2024 BJTU Outstanding League Member (Top 2%) · Professional Skills Excellence Award (Top 4%)
