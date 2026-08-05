@@ -31,7 +31,7 @@ I don't just "use" AI — I build systems around it:
 
 ## 🏢 Industry Research Experience
 
-### Alpha JWC Ventures — Post-Investment Team (USD Fund)
+### Alpha JWC Ventures — Investment Team (USD Fund)
 **Post-Investment Intern** · Apr 2026 – May 2026
 
 - Tracked operational and financial KPIs across portfolio companies in the tech and healthcare sectors; consolidated data from quarterly reports, investor updates, and public filings into standardized tracking dashboards.
